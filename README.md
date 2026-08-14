@@ -7,7 +7,7 @@
 </div>
 
 <p align="left">
-  Edit MobileGestalt on iOS 27.0 beta 1 - 4!<br>
+  Edit MobileGestalt on iOS 27.0 beta 1 - 4<br>
   <a href="https://discord.gg/gw8PcRF3Jr">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-7289DA.svg" alt="Discord">
   </a>
